@@ -1,0 +1,264 @@
+{
+  "credits_database": {
+    "metadata": {
+      "created_date": "2025-08-25",
+      "total_transactions": 3456,
+      "total_credits_circulated": 5847320,
+      "total_credits_earned": 2847500,
+      "total_credits_spent": 1923450,
+      "active_credit_balance": 923870,
+      "average_transaction": 1690,
+      "currency_conversion_rate": "100 credits = $1.00 USD"
+    },
+    "transactions": [
+      {
+        "transaction_id": "tx_001",
+        "user_id": "usr_001",
+        "username": "PixelMaster_89",
+        "type": "earning",
+        "category": "game_download",
+        "amount": 2500,
+        "balance_after": 189750,
+        "description": "Download revenue for 'Neon Runner: Cyberpunk Chase' (50 downloads × 50 credits)",
+        "game_id": "ug_001",
+        "game_title": "Neon Runner: Cyberpunk Chase",
+        "created_date": "2025-08-25T14:30:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_002",
+        "user_id": "usr_001",
+        "username": "PixelMaster_89",
+        "type": "earning",
+        "category": "game_featured",
+        "amount": 5000,
+        "balance_after": 194750,
+        "description": "Bonus for game featured on homepage",
+        "game_id": "ug_001",
+        "game_title": "Neon Runner: Cyberpunk Chase",
+        "created_date": "2025-08-24T10:00:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_003",
+        "user_id": "usr_002",
+        "username": "CyberNinja_X",
+        "type": "earning",
+        "category": "premium_sale",
+        "amount": 3493,
+        "balance_after": 318743,
+        "description": "Premium game sale for 'Quantum Con' ($4.99 × 70% revenue share)",
+        "game_id": "ug_002",
+        "game_title": "Quantum Con",
+        "created_date": "2025-08-25T16:15:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_004",
+        "user_id": "usr_003",
+        "username": "RetroGamer_2k",
+        "type": "spending",
+        "category": "asset_purchase",
+        "amount": -1500,
+        "balance_after": 87700,
+        "description": "Purchased sound effects pack from marketplace",
+        "asset_id": "sfx_retro_pack_001",
+        "asset_title": "Retro Sound Effects Pack Vol.1",
+        "created_date": "2025-08-25T11:20:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_005",
+        "user_id": "usr_004",
+        "username": "PuzzleMaven",
+        "type": "earning",
+        "category": "game_download",
+        "amount": 1800,
+        "balance_after": 125200,
+        "description": "Download revenue for 'Mind Maze Deluxe' (36 downloads × 50 credits)",
+        "game_id": "ug_004",
+        "game_title": "Mind Maze Deluxe",
+        "created_date": "2025-08-25T13:45:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_006",
+        "user_id": "usr_005",
+        "username": "ActionHero_23",
+        "type": "spending",
+        "category": "promotion",
+        "amount": -2000,
+        "balance_after": 54700,
+        "description": "Promoted game on platform homepage for 24 hours",
+        "game_id": "ug_005",
+        "game_title": "Turbo Smash Championship",
+        "created_date": "2025-08-24T09:00:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_007",
+        "user_id": "usr_001",
+        "username": "PixelMaster_89",
+        "type": "earning",
+        "category": "milestone_bonus",
+        "amount": 10000,
+        "balance_after": 204750,
+        "description": "Achievement bonus: 10,000 total downloads milestone",
+        "created_date": "2025-08-23T18:30:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_008",
+        "user_id": "usr_006",
+        "username": "SpeedRunner_Pro",
+        "type": "spending",
+        "category": "game_purchase",
+        "amount": -499,
+        "balance_after": 8501,
+        "description": "Purchased premium game 'Quantum Con'",
+        "game_id": "ug_002",
+        "game_title": "Quantum Con",
+        "created_date": "2025-08-22T20:15:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_009",
+        "user_id": "usr_007",
+        "username": "CasualGamer_99",
+        "type": "earning",
+        "category": "review_bonus",
+        "amount": 250,
+        "balance_after": 4750,
+        "description": "Bonus for writing detailed game review",
+        "review_id": "rev_002",
+        "created_date": "2025-08-21T14:30:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_010",
+        "user_id": "usr_002",
+        "username": "CyberNinja_X",
+        "type": "spending",
+        "category": "platform_fee",
+        "amount": -750,
+        "balance_after": 317993,
+        "description": "Monthly creator tier subscription (Creator Elite)",
+        "created_date": "2025-08-20T12:00:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_011",
+        "user_id": "usr_008",
+        "username": "PuzzleSolver_42",
+        "type": "spending",
+        "category": "tip",
+        "amount": -500,
+        "balance_after": 12300,
+        "description": "Tipped developer for excellent game",
+        "game_id": "ug_002",
+        "recipient_id": "usr_002",
+        "recipient_username": "CyberNinja_X",
+        "created_date": "2025-08-19T16:45:00Z",
+        "status": "completed"
+      },
+      {
+        "transaction_id": "tx_012",
+        "user_id": "usr_003",
+        "username": "RetroGamer_2k",
+        "type": "earning",
+        "category": "daily_bonus",
+        "amount": 100,
+        "balance_after": 89200,
+        "description": "Daily login bonus (7-day streak)",
+        "streak_days": 7,
+        "created_date": "2025-08-25T08:00:00Z",
+        "status": "completed"
+      }
+    ],
+    "user_balances": [
+      {
+        "user_id": "usr_001",
+        "username": "PixelMaster_89",
+        "current_balance": 194750,
+        "total_earned": 187500,
+        "total_spent": 12450,
+        "pending_earnings": 2500,
+        "last_transaction": "2025-08-25T14:30:00Z"
+      },
+      {
+        "user_id": "usr_002",
+        "username": "CyberNinja_X",
+        "current_balance": 317993,
+        "total_earned": 312500,
+        "total_spent": 15257,
+        "pending_earnings": 5750,
+        "last_transaction": "2025-08-25T16:15:00Z"
+      },
+      {
+        "user_id": "usr_003",
+        "username": "RetroGamer_2k",
+        "current_balance": 87700,
+        "total_earned": 89200,
+        "total_spent": 3200,
+        "pending_earnings": 450,
+        "last_transaction": "2025-08-25T11:20:00Z"
+      },
+      {
+        "user_id": "usr_004",
+        "username": "PuzzleMaven",
+        "current_balance": 125200,
+        "total_earned": 123400,
+        "total_spent": 890,
+        "pending_earnings": 1200,
+        "last_transaction": "2025-08-25T13:45:00Z"
+      },
+      {
+        "user_id": "usr_005",
+        "username": "ActionHero_23",
+        "current_balance": 54700,
+        "total_earned": 56700,
+        "total_spent": 4200,
+        "pending_earnings": 340,
+        "last_transaction": "2025-08-24T09:00:00Z"
+      }
+    ],
+    "earning_categories": [
+      {
+        "category": "game_download",
+        "description": "Credits earned from game downloads",
+        "rate": "50 credits per download",
+        "total_earned": 1245000
+      },
+      {
+        "category": "premium_sale",
+        "description": "Revenue share from premium game sales",
+        "rate": "70% of sale price",
+        "total_earned": 892340
+      },
+      {
+        "category": "milestone_bonus",
+        "description": "Bonuses for reaching download/rating milestones",
+        "rate": "Variable based on achievement",
+        "total_earned": 156000
+      },
+      {
+        "category": "game_featured",
+        "description": "Bonus for games featured on platform",
+        "rate": "5,000 credits per feature",
+        "total_earned": 125000
+      },
+      {
+        "category": "review_bonus",
+        "description": "Bonus for writing quality reviews",
+        "rate": "250 credits per approved review",
+        "total_earned": 78500
+      },
+      {
+        "category": "daily_bonus",
+        "description": "Daily login streak bonuses",
+        "rate": "50-200 credits based on streak",
+        "total_earned": 234560
+      }
+    ]
+  }
+}

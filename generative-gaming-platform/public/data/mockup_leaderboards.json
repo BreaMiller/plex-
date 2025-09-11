@@ -1,0 +1,458 @@
+{
+  "leaderboards_achievements_database": {
+    "metadata": {
+      "created_date": "2025-08-25",
+      "total_achievements": 45,
+      "total_leaderboard_entries": 289,
+      "most_common_achievement": "first_game",
+      "rarest_achievement": "legendary_creator",
+      "leaderboard_update_frequency": "hourly"
+    },
+    "leaderboards": {
+      "top_creators_by_downloads": {
+        "name": "Most Downloaded Creators",
+        "description": "Creators ranked by total game downloads",
+        "last_updated": "2025-08-25T17:00:00Z",
+        "entries": [
+          {
+            "rank": 1,
+            "user_id": "usr_002",
+            "username": "CyberNinja_X",
+            "display_name": "Maya Rodriguez",
+            "avatar_url": "/imgs/profiles/maya_rodriguez_profile.jpg",
+            "total_downloads": 23450,
+            "games_count": 8,
+            "verified": true,
+            "tier": "creator_elite"
+          },
+          {
+            "rank": 2,
+            "user_id": "usr_001",
+            "username": "PixelMaster_89",
+            "display_name": "Alex Chen",
+            "avatar_url": "/imgs/profiles/alex_chen_profile.jpg",
+            "total_downloads": 15670,
+            "games_count": 12,
+            "verified": true,
+            "tier": "creator_pro"
+          },
+          {
+            "rank": 3,
+            "user_id": "usr_004",
+            "username": "PuzzleMaven",
+            "display_name": "Sarah Williams",
+            "avatar_url": "/imgs/profiles/sarah_williams_profile.jpg",
+            "total_downloads": 12340,
+            "games_count": 15,
+            "verified": true,
+            "tier": "creator_pro"
+          },
+          {
+            "rank": 4,
+            "user_id": "usr_003",
+            "username": "RetroGamer_2k",
+            "display_name": "Jordan Kim",
+            "avatar_url": "/imgs/profiles/jordan_kim_profile.jpg",
+            "total_downloads": 8920,
+            "games_count": 6,
+            "verified": false,
+            "tier": "creator_standard"
+          },
+          {
+            "rank": 5,
+            "user_id": "usr_005",
+            "username": "ActionHero_23",
+            "display_name": "Marcus Thompson",
+            "avatar_url": "/imgs/profiles/marcus_thompson_profile.jpg",
+            "total_downloads": 5670,
+            "games_count": 4,
+            "verified": false,
+            "tier": "creator_standard"
+          }
+        ]
+      },
+      "top_rated_games": {
+        "name": "Highest Rated Games",
+        "description": "Games with the highest user ratings (minimum 50 ratings)",
+        "last_updated": "2025-08-25T17:00:00Z",
+        "entries": [
+          {
+            "rank": 1,
+            "game_id": "ug_002",
+            "game_title": "Quantum Con",
+            "creator_username": "CyberNinja_X",
+            "rating": 4.8,
+            "total_ratings": 312,
+            "downloads": 18750,
+            "category": "Adventure",
+            "cover_image": "/imgs/quantum_con_cover.png"
+          },
+          {
+            "rank": 2,
+            "game_id": "ug_001",
+            "game_title": "Neon Runner: Cyberpunk Chase",
+            "creator_username": "PixelMaster_89",
+            "rating": 4.7,
+            "total_ratings": 234,
+            "downloads": 12450,
+            "category": "Action",
+            "cover_image": "/imgs/neon_runner_cyberpunk_chase.png"
+          },
+          {
+            "rank": 3,
+            "game_id": "ug_006",
+            "game_title": "Stellar Conquest",
+            "creator_username": "PixelMaster_89",
+            "rating": 4.6,
+            "total_ratings": 145,
+            "downloads": 7820,
+            "category": "Strategy",
+            "cover_image": "/imgs/stellar_conquest_clean.png"
+          },
+          {
+            "rank": 4,
+            "game_id": "ug_004",
+            "game_title": "Mind Maze Deluxe",
+            "creator_username": "PuzzleMaven",
+            "rating": 4.5,
+            "total_ratings": 198,
+            "downloads": 9340,
+            "category": "Puzzle",
+            "cover_image": "/imgs/mind_maze_deluxe.png"
+          },
+          {
+            "rank": 5,
+            "game_id": "ug_003",
+            "game_title": "Retro Blast Arena",
+            "creator_username": "RetroGamer_2k",
+            "rating": 4.3,
+            "total_ratings": 156,
+            "downloads": 6890,
+            "category": "Arcade",
+            "cover_image": "/imgs/stellar_conquest_clean.png"
+          }
+        ]
+      },
+      "top_earners": {
+        "name": "Top Credit Earners",
+        "description": "Creators ranked by total credits earned",
+        "last_updated": "2025-08-25T17:00:00Z",
+        "entries": [
+          {
+            "rank": 1,
+            "user_id": "usr_002",
+            "username": "CyberNinja_X",
+            "display_name": "Maya Rodriguez",
+            "credits_earned": 312500,
+            "current_balance": 317993,
+            "games_count": 8,
+            "tier": "creator_elite"
+          },
+          {
+            "rank": 2,
+            "user_id": "usr_001",
+            "username": "PixelMaster_89",
+            "display_name": "Alex Chen",
+            "credits_earned": 187500,
+            "current_balance": 194750,
+            "games_count": 12,
+            "tier": "creator_pro"
+          },
+          {
+            "rank": 3,
+            "user_id": "usr_004",
+            "username": "PuzzleMaven",
+            "display_name": "Sarah Williams",
+            "credits_earned": 123400,
+            "current_balance": 125200,
+            "games_count": 15,
+            "tier": "creator_pro"
+          },
+          {
+            "rank": 4,
+            "user_id": "usr_003",
+            "username": "RetroGamer_2k",
+            "display_name": "Jordan Kim",
+            "credits_earned": 89200,
+            "current_balance": 87700,
+            "games_count": 6,
+            "tier": "creator_standard"
+          },
+          {
+            "rank": 5,
+            "user_id": "usr_005",
+            "username": "ActionHero_23",
+            "display_name": "Marcus Thompson",
+            "credits_earned": 56700,
+            "current_balance": 54700,
+            "games_count": 4,
+            "tier": "creator_standard"
+          }
+        ]
+      },
+      "most_followed_creators": {
+        "name": "Most Followed Creators",
+        "description": "Creators with the most followers",
+        "last_updated": "2025-08-25T17:00:00Z",
+        "entries": [
+          {
+            "rank": 1,
+            "user_id": "usr_002",
+            "username": "CyberNinja_X",
+            "display_name": "Maya Rodriguez",
+            "followers": 1247,
+            "games_count": 8,
+            "average_rating": 4.8,
+            "tier": "creator_elite"
+          },
+          {
+            "rank": 2,
+            "user_id": "usr_001",
+            "username": "PixelMaster_89",
+            "display_name": "Alex Chen",
+            "followers": 892,
+            "games_count": 12,
+            "average_rating": 4.6,
+            "tier": "creator_pro"
+          },
+          {
+            "rank": 3,
+            "user_id": "usr_004",
+            "username": "PuzzleMaven",
+            "display_name": "Sarah Williams",
+            "followers": 723,
+            "games_count": 15,
+            "average_rating": 4.4,
+            "tier": "creator_pro"
+          }
+        ]
+      }
+    },
+    "achievements": [
+      {
+        "id": "first_game",
+        "name": "First Steps",
+        "description": "Published your first game",
+        "category": "milestone",
+        "rarity": "common",
+        "icon": "🎮",
+        "credits_reward": 500,
+        "unlock_criteria": "Publish 1 game",
+        "unlocked_by": 47,
+        "total_users": 50
+      },
+      {
+        "id": "prolific_creator",
+        "name": "Prolific Creator",
+        "description": "Published 10 or more games",
+        "category": "milestone",
+        "rarity": "rare",
+        "icon": "🏭",
+        "credits_reward": 2500,
+        "unlock_criteria": "Publish 10+ games",
+        "unlocked_by": 3,
+        "total_users": 50
+      },
+      {
+        "id": "viral_hit",
+        "name": "Viral Sensation",
+        "description": "Created a game with 10,000+ downloads",
+        "category": "popularity",
+        "rarity": "rare",
+        "icon": "🚀",
+        "credits_reward": 5000,
+        "unlock_criteria": "Reach 10,000 downloads on a single game",
+        "unlocked_by": 2,
+        "total_users": 50
+      },
+      {
+        "id": "community_favorite",
+        "name": "Community Favorite",
+        "description": "Game featured on homepage",
+        "category": "recognition",
+        "rarity": "epic",
+        "icon": "⭐",
+        "credits_reward": 10000,
+        "unlock_criteria": "Have a game featured on homepage",
+        "unlocked_by": 4,
+        "total_users": 50
+      },
+      {
+        "id": "perfectionist",
+        "name": "Perfectionist",
+        "description": "Maintained 4.5+ rating across all games",
+        "category": "quality",
+        "rarity": "legendary",
+        "icon": "💎",
+        "credits_reward": 15000,
+        "unlock_criteria": "Average rating of 4.5+ across all published games (min 3 games)",
+        "unlocked_by": 1,
+        "total_users": 50
+      },
+      {
+        "id": "speed_developer",
+        "name": "Speed Developer",
+        "description": "Created a game in under 48 hours",
+        "category": "skill",
+        "rarity": "rare",
+        "icon": "⚡",
+        "credits_reward": 3000,
+        "unlock_criteria": "Publish a game within 48 hours of starting development",
+        "unlocked_by": 5,
+        "total_users": 50
+      },
+      {
+        "id": "nostalgia_trip",
+        "name": "Nostalgia Trip",
+        "description": "Created a game in retro 8-bit style",
+        "category": "style",
+        "rarity": "uncommon",
+        "icon": "📺",
+        "credits_reward": 1000,
+        "unlock_criteria": "Publish a game with retro/8-bit art style",
+        "unlocked_by": 8,
+        "total_users": 50
+      },
+      {
+        "id": "brain_bender",
+        "name": "Brain Bender",
+        "description": "Created a puzzle game with 100+ levels",
+        "category": "content",
+        "rarity": "rare",
+        "icon": "🧩",
+        "credits_reward": 4000,
+        "unlock_criteria": "Publish a puzzle game with 100+ levels",
+        "unlocked_by": 1,
+        "total_users": 50
+      },
+      {
+        "id": "adrenaline_rush",
+        "name": "Adrenaline Rush",
+        "description": "Created a high-intensity action game",
+        "category": "genre",
+        "rarity": "uncommon",
+        "icon": "💥",
+        "credits_reward": 1500,
+        "unlock_criteria": "Publish an action game with fast-paced gameplay",
+        "unlocked_by": 12,
+        "total_users": 50
+      },
+      {
+        "id": "social_butterfly",
+        "name": "Social Butterfly",
+        "description": "Followed 100+ creators",
+        "category": "community",
+        "rarity": "common",
+        "icon": "🦋",
+        "credits_reward": 750,
+        "unlock_criteria": "Follow 100+ other creators",
+        "unlocked_by": 15,
+        "total_users": 50
+      },
+      {
+        "id": "review_master",
+        "name": "Review Master",
+        "description": "Written 50+ game reviews",
+        "category": "community",
+        "rarity": "rare",
+        "icon": "📝",
+        "credits_reward": 2000,
+        "unlock_criteria": "Write 50+ game reviews",
+        "unlocked_by": 3,
+        "total_users": 50
+      },
+      {
+        "id": "credit_millionaire",
+        "name": "Credit Millionaire",
+        "description": "Earned over 1,000,000 credits lifetime",
+        "category": "wealth",
+        "rarity": "legendary",
+        "icon": "💰",
+        "credits_reward": 50000,
+        "unlock_criteria": "Earn 1,000,000+ credits total",
+        "unlocked_by": 0,
+        "total_users": 50
+      },
+      {
+        "id": "genre_master",
+        "name": "Genre Master",
+        "description": "Published games in 5+ different genres",
+        "category": "versatility",
+        "rarity": "epic",
+        "icon": "🎭",
+        "credits_reward": 7500,
+        "unlock_criteria": "Publish games in 5+ different genres",
+        "unlocked_by": 2,
+        "total_users": 50
+      },
+      {
+        "id": "early_adopter",
+        "name": "Early Adopter",
+        "description": "One of the first 100 users on the platform",
+        "category": "exclusive",
+        "rarity": "legendary",
+        "icon": "🥇",
+        "credits_reward": 25000,
+        "unlock_criteria": "Register as one of the first 100 users",
+        "unlocked_by": 50,
+        "total_users": 50
+      },
+      {
+        "id": "trendsetter",
+        "name": "Trendsetter",
+        "description": "Created a game that inspired 10+ similar games",
+        "category": "influence",
+        "rarity": "legendary",
+        "icon": "🌟",
+        "credits_reward": 20000,
+        "unlock_criteria": "Have your game mechanics copied in 10+ other games",
+        "unlocked_by": 1,
+        "total_users": 50
+      }
+    ],
+    "achievement_categories": [
+      {
+        "category": "milestone",
+        "name": "Milestones",
+        "description": "Major development milestones",
+        "total_achievements": 8
+      },
+      {
+        "category": "popularity",
+        "name": "Popularity",
+        "description": "Achievements based on download and play counts",
+        "total_achievements": 5
+      },
+      {
+        "category": "quality",
+        "name": "Quality",
+        "description": "Excellence in game ratings and reviews",
+        "total_achievements": 4
+      },
+      {
+        "category": "community",
+        "name": "Community",
+        "description": "Active participation in platform community",
+        "total_achievements": 6
+      },
+      {
+        "category": "skill",
+        "name": "Skill",
+        "description": "Demonstrating exceptional development skills",
+        "total_achievements": 4
+      },
+      {
+        "category": "wealth",
+        "name": "Wealth",
+        "description": "Credit earning achievements",
+        "total_achievements": 3
+      },
+      {
+        "category": "exclusive",
+        "name": "Exclusive",
+        "description": "Limited-time or special circumstance achievements",
+        "total_achievements": 2
+      }
+    ]
+  }
+}

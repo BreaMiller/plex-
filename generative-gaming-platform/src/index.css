@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%
+  }
+
+  .dark {
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%
+  }
+}
+
+/* Lightspeed Glow Effect - Updated for white text with glowing edges */
+@keyframes lightspeed-glow {
+  0%, 100% {
+    text-shadow: 
+      0 0 5px rgba(255, 255, 255, 0.9),
+      0 0 10px rgba(255, 255, 255, 0.7),
+      0 0 20px rgba(6, 182, 212, 0.6),
+      0 0 35px rgba(6, 182, 212, 0.4);
+  }
+  50% {
+    text-shadow: 
+      0 0 10px rgba(255, 255, 255, 1),
+      0 0 20px rgba(255, 255, 255, 0.8),
+      0 0 30px rgba(6, 182, 212, 0.8),
+      0 0 50px rgba(6, 182, 212, 0.6),
+      0 0 80px rgba(6, 182, 212, 0.4);
+  }
+}
+
+.lightspeed-glow {
+  color: white !important; /* REQUIREMENT: White text color */
+  animation: lightspeed-glow 3s ease-in-out infinite alternate;
+  filter: drop-shadow(0 0 15px rgba(6, 182, 212, 0.5));
+}
+
+/* Section Fade-in Animation System */
+.section-fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.section-fade-in.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Staggered animation delays for multiple sections */
+.section-fade-in:nth-child(1) { transition-delay: 0ms; }
+.section-fade-in:nth-child(2) { transition-delay: 150ms; }
+.section-fade-in:nth-child(3) { transition-delay: 300ms; }
+.section-fade-in:nth-child(4) { transition-delay: 450ms; }
+.section-fade-in:nth-child(5) { transition-delay: 600ms; }
+.section-fade-in:nth-child(6) { transition-delay: 750ms; }
+
+@layer utilities {
+  /* Hide scrollbars but keep functionality */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Active scale effect */
+  .active\:scale-98:active {
+    transform: scale(0.98);
+  }
+
+  /* Reduced motion support */
+  @media (prefers-reduced-motion: reduce) {
+    .transition-all,
+    .transition-opacity,
+    .transition-transform {
+      transition: none !important;
+    }
+    
+    .lightspeed-glow {
+      animation: none !important;
+    }
+    
+    .section-fade-in {
+      opacity: 1 !important;
+      transform: none !important;
+      transition: none !important;
+    }
+  }
+}
+
+img {
+  object-position: top;
+}
+
+.fixed {
+  position: fixed;
+}

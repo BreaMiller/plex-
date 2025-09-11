@@ -1,0 +1,105 @@
+{
+  "_source_id": 14,
+  "sources": {
+    "Popular Games Content Research": {
+      "https://store.steampowered.com/app/1145360/Hades/": {
+        "id": 1,
+        "publisher": "Steam",
+        "url": "https://store.steampowered.com/app/1145360/Hades/",
+        "title": "Hades Steam Store Page",
+        "info": "Complete game information including developer, publisher, release date, ratings, description, and official cover art for Hades by Supergiant Games"
+      },
+      "https://store.steampowered.com/app/1172470/Apex_Legends/": {
+        "id": 2,
+        "publisher": "Steam",
+        "url": "https://store.steampowered.com/app/1172470/Apex_Legends/",
+        "title": "Apex Legends Steam Store Page",
+        "info": "Comprehensive game data for Apex Legends including developer Respawn Entertainment, publisher EA, ratings, and official media"
+      },
+      "https://playvalorant.com/en-us/": {
+        "id": 3,
+        "publisher": "Riot Games",
+        "url": "https://playvalorant.com/en-us/",
+        "title": "VALORANT Official Website",
+        "info": "Official game information for VALORANT including gameplay mechanics, features, and official media content"
+      },
+      "https://store.steampowered.com/app/620/Portal_2/": {
+        "id": 4,
+        "publisher": "Steam",
+        "url": "https://store.steampowered.com/app/620/Portal_2/",
+        "title": "Portal 2 Steam Store Page",
+        "info": "Complete Portal 2 information including Valve as developer/publisher, ratings, release date, and game features"
+      },
+      "https://www.cyberpunk.net/": {
+        "id": 5,
+        "publisher": "CD Projekt Red",
+        "url": "https://www.cyberpunk.net/",
+        "title": "Cyberpunk 2077 Official Website",
+        "info": "Official game information and media for Cyberpunk 2077 including cover art and logo assets"
+      },
+      "https://www.innersloth.com/games/among-us/": {
+        "id": 6,
+        "publisher": "InnerSloth",
+        "url": "https://www.innersloth.com/games/among-us/",
+        "title": "Among Us Official Game Page",
+        "info": "Complete Among Us information from developer InnerSloth including gameplay features, awards, and official screenshots"
+      },
+      "https://civilization.2k.com/civ-vi/": {
+        "id": 7,
+        "publisher": "2K Games",
+        "url": "https://civilization.2k.com/civ-vi/",
+        "title": "Civilization VI Official Website",
+        "info": "Comprehensive Civilization VI information including game features, expansions, and official cover art from publisher 2K Games"
+      },
+      "https://en.bandainamcoent.eu/elden-ring/elden-ring": {
+        "id": 8,
+        "publisher": "Bandai Namco Entertainment",
+        "url": "https://en.bandainamcoent.eu/elden-ring/elden-ring",
+        "title": "ELDEN RING Official Website",
+        "info": "Complete ELDEN RING information including FromSoftware as developer, system requirements, character classes, and official media"
+      },
+      "https://www.thewitcher.com/en/witcher3": {
+        "id": 9,
+        "publisher": "CD Projekt Red",
+        "url": "https://www.thewitcher.com/en/witcher3",
+        "title": "The Witcher 3 Official Website",
+        "info": "Official Witcher 3 information including game features, expansions, character details, and extensive official media gallery"
+      },
+      "https://www.callofduty.com/modernwarfare3": {
+        "id": 10,
+        "publisher": "Activision",
+        "url": "https://www.callofduty.com/modernwarfare3",
+        "title": "Call of Duty: Modern Warfare III Official Website",
+        "info": "Complete MW3 information including developer Sledgehammer Games, system requirements, game modes, and official cover art"
+      },
+      "https://www.ubisoft.com/en-us/game/assassins-creed/mirage": {
+        "id": 11,
+        "publisher": "Ubisoft",
+        "url": "https://www.ubisoft.com/en-us/game/assassins-creed/mirage",
+        "title": "Assassin's Creed Mirage Official Website",
+        "info": "Comprehensive AC Mirage information including Ubisoft Bordeaux as developer, character details, setting information, and official media"
+      },
+      "https://www.ageofempires.com/games/age-of-empires-iv/": {
+        "id": 12,
+        "publisher": "Xbox Game Studios",
+        "url": "https://www.ageofempires.com/games/age-of-empires-iv/",
+        "title": "Age of Empires IV Official Website",
+        "info": "Complete Age of Empires IV information including campaign details, system requirements, awards, and official media assets"
+      },
+      "https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/": {
+        "id": 13,
+        "publisher": "Steam",
+        "url": "https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/",
+        "title": "Tetris Effect: Connected Steam Store Page",
+        "info": "Comprehensive Tetris Effect information including developers Monstars Inc/Resonair, features, ratings, and official cover art"
+      },
+      "https://www.celestegame.com/": {
+        "id": 14,
+        "publisher": "Matt Makes Games",
+        "url": "https://www.celestegame.com/",
+        "title": "Celeste Official Website",
+        "info": "Official Celeste game information from developer Matt Makes Games including game description and screenshot gallery"
+      }
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "user_games_database": {
+    "metadata": {
+      "created_date": "2025-08-25",
+      "total_games": 127,
+      "active_games": 98,
+      "total_downloads": 89340,
+      "total_plays": 234567,
+      "average_rating": 4.2,
+      "featured_games": 8,
+      "categories": ["Action", "Adventure", "Puzzle", "Strategy", "RPG", "Arcade", "Platformer", "Horror", "Racing", "Simulation"]
+    },
+    "games": [
+      {
+        "game_id": "ug_001",
+        "title": "Neon Runner: Cyberpunk Chase",
+        "creator_id": "usr_001",
+        "creator_username": "PixelMaster_89",
+        "category": "Action",
+        "subcategory": "Endless Runner",
+        "description": "Race through neon-lit cyberpunk streets avoiding obstacles and collecting power-ups. Features dynamic music that adapts to your speed and performance!",
+        "created_date": "2025-07-15T14:30:00Z",
+        "last_updated": "2025-12-20T09:15:00Z",
+        "version": "1.4.2",
+        "tags": ["cyberpunk", "runner", "neon", "synthwave", "fast-paced"],
+        "cover_image": "/imgs/dark-cyberpunk-city-neon-gaming-background.jpg",
+        "screenshots": [
+          "https://cdn.gameplatform.com/games/neon-runner/screen1.jpg",
+          "https://cdn.gameplatform.com/games/neon-runner/screen2.jpg",
+          "https://cdn.gameplatform.com/games/neon-runner/screen3.jpg"
+        ],
+        "gameplay_video": "https://cdn.gameplatform.com/games/neon-runner/gameplay.mp4",
+        "stats": {
+          "downloads": 12450,
+          "plays": 34670,
+          "favorites": 892,
+          "rating": 4.7,
+          "total_ratings": 234,
+          "featured": true,
+          "featured_date": "2025-09-12T10:00:00Z"
+        },
+        "technical_info": {
+          "file_size": "25.4 MB",
+          "platform_compatibility": ["Web", "Windows", "Mac", "Mobile"],
+          "controls": "Keyboard/Touch",
+          "estimated_playtime": "15-30 minutes per session"
+        },
+        "monetization": {
+          "is_premium": false,
+          "credits_earned": 62250,
+          "revenue_share": "70%"
+        }
+      },
+      {
+        "game_id": "ug_002",
+        "title": "Quantum Con",
+        "creator_id": "usr_002",
+        "creator_username": "CyberNinja_X",
+        "category": "Adventure",
+        "subcategory": "Stealth Puzzle",
+        "description": "Use quantum abilities to phase through walls, manipulate time, and outwit security systems in this mind-bending heist adventure.",
+        "created_date": "2025-03-22T16:45:00Z",
+        "last_updated": "2025-01-10T11:30:00Z",
+        "version": "2.1.0",
+        "tags": ["stealth", "puzzle", "quantum", "heist", "cyberpunk"],
+        "cover_image": "/imgs/quantum_con_cover.png",
+        "screenshots": [
+          "https://cdn.gameplatform.com/games/quantum-heist/screen1.jpg",
+          "https://cdn.gameplatform.com/games/quantum-heist/screen2.jpg",
+          "https://cdn.gameplatform.com/games/quantum-heist/screen3.jpg",
+          "https://cdn.gameplatform.com/games/quantum-heist/screen4.jpg"
+        ],
+        "gameplay_video": "https://cdn.gameplatform.com/games/quantum-heist/gameplay.mp4",
+        "stats": {
+          "downloads": 18750,
+          "plays": 52340,
+          "favorites": 1456,
+          "rating": 4.8,
+          "total_ratings": 312,
+          "featured": true,
+          "featured_date": "2025-08-05T14:00:00Z"
+        },
+        "technical_info": {
+          "file_size": "42.8 MB",
+          "platform_compatibility": ["Web", "Windows", "Mac"],
+          "controls": "Keyboard/Mouse",
+          "estimated_playtime": "2-3 hours"
+        },
+        "monetization": {
+          "is_premium": true,
+          "premium_price": 499,
+          "credits_earned": 156250,
+          "revenue_share": "70%"
+        }
+      },
+      {
+        "game_id": "ug_003",
+        "title": "Retro Blast Arena",
+        "creator_id": "usr_003",
+        "creator_username": "RetroGamer_2k",
+        "category": "Arcade",
+        "subcategory": "Top-down Shooter",
+        "description": "Classic 8-bit style arena shooter with modern twists. Battle waves of enemies with power-ups and special weapons in nostalgic pixel art glory.",
+        "created_date": "2025-01-15T10:20:00Z",
+        "last_updated": "2025-08-30T15:45:00Z",
+        "version": "1.2.8",
+        "tags": ["retro", "8bit", "shooter", "arcade", "pixel-art"],
+        "cover_image": "/images/stellar_conquest_clean.png",
+        "screenshots": [
+          "https://cdn.gameplatform.com/games/retro-blast/screen1.jpg",
+          "https://cdn.gameplatform.com/games/retro-blast/screen2.jpg"
+        ],
+        "gameplay_video": "https://cdn.gameplatform.com/games/retro-blast/gameplay.mp4",
+        "stats": {
+          "downloads": 6890,
+          "plays": 18450,
+          "favorites": 445,
+          "rating": 4.3,
+          "total_ratings": 156,
+          "featured": false
+        },
+        "technical_info": {
+          "file_size": "8.2 MB",
+          "platform_compatibility": ["Web", "Windows", "Mac", "Mobile"],
+          "controls": "Keyboard/Touch",
+          "estimated_playtime": "10-20 minutes per session"
+        },
+        "monetization": {
+          "is_premium": false,
+          "credits_earned": 34450,
+          "revenue_share": "70%"
+        }
+      },
+      {
+        "game_id": "ug_004",
+        "title": "Mind Maze Deluxe",
+        "creator_id": "usr_004",
+        "creator_username": "PuzzleMaven",
+        "category": "Puzzle",
+        "subcategory": "Logic Puzzle",
+        "description": "Navigate through 120 increasingly complex mazes that challenge both your spatial reasoning and logical thinking. Features multiple solution paths and hidden secrets.",
+        "created_date": "2025-08-05T12:15:00Z",
+        "last_updated": "2025-02-14T08:30:00Z",
+        "version": "1.6.1",
+        "tags": ["puzzle", "maze", "logic", "brain-teaser", "challenging"],
+        "cover_image": "/imgs/mind_maze_deluxe.png",
+        "screenshots": [
+          "https://cdn.gameplatform.com/games/mind-maze/screen1.jpg",
+          "https://cdn.gameplatform.com/games/mind-maze/screen2.jpg",
+          "https://cdn.gameplatform.com/games/mind-maze/screen3.jpg"
+        ],
+        "gameplay_video": "https://cdn.gameplatform.com/games/mind-maze/gameplay.mp4",
+        "stats": {
+          "downloads": 9340,
+          "plays": 28760,
+          "favorites": 567,
+          "rating": 4.5,
+          "total_ratings": 198,
+          "featured": true,
+          "featured_date": "2025-11-28T16:00:00Z"
+        },
+        "technical_info": {
+          "file_size": "15.7 MB",
+          "platform_compatibility": ["Web", "Windows", "Mac", "Mobile"],
+          "controls": "Keyboard/Touch/Mouse",
+          "estimated_playtime": "4-6 hours"
+        },
+        "monetization": {
+          "is_premium": false,
+          "credits_earned": 46700,
+          "revenue_share": "70%"
+        }
+      },
+      {
+        "game_id": "ug_005",
+        "title": "Turbo Smash Championship",
+        "creator_id": "usr_005",
+        "creator_username": "ActionHero_23",
+        "category": "Action",
+        "subcategory": "Fighting",
+        "description": "Fast-paced 2D fighting game with combo-heavy gameplay and spectacular special moves. Choose from 8 unique fighters in this tournament-style brawler.",
+        "created_date": "2025-04-12T09:30:00Z",
+        "last_updated": "2025-10-05T13:20:00Z",
+        "version": "1.3.5",
+        "tags": ["fighting", "2d", "combos", "tournament", "multiplayer"],
+        "cover_image": "/imgs/turbo_smash_championship_clean.png",
+        "screenshots": [
+          "https://cdn.gameplatform.com/games/turbo-smash/screen1.jpg",
+          "https://cdn.gameplatform.com/games/turbo-smash/screen2.jpg"
+        ],
+        "gameplay_video": "https://cdn.gameplatform.com/games/turbo-smash/gameplay.mp4",
+        "stats": {
+          "downloads": 4230,
+          "plays": 11890,
+          "favorites": 298,
+          "rating": 4.1,
+          "total_ratings": 87,
+          "featured": false
+        },
+        "technical_info": {
+          "file_size": "32.1 MB",
+          "platform_compatibility": ["Web", "Windows"],
+          "controls": "Keyboard/Gamepad",
+          "estimated_playtime": "1-2 hours"
+        },
+        "monetization": {
+          "is_premium": false,
+          "credits_earned": 21150,
+          "revenue_share": "70%"
+        }
+      },
+      {
+        "game_id": "ug_006",
+        "title": "Stellar Conquest",
+        "creator_id": "usr_001",
+        "creator_username": "PixelMaster_89",
+        "category": "Strategy",
+        "subcategory": "Real-time Strategy",
+        "description": "Command fleets across the galaxy in this space RTS. Manage resources, research technologies, and engage in epic space battles to claim the stars.",
+        "created_date": "2025-11-20T11:45:00Z",
+        "last_updated": "2025-03-15T14:10:00Z",
+        "version": "1.1.2",
+        "tags": ["strategy", "space", "rts", "fleet", "conquest"],
+        "cover_image": "/imgs/stellar_conquest_clean.png",
+        "screenshots": [
+          "https://cdn.gameplatform.com/games/stellar-conquest/screen1.jpg",
+          "https://cdn.gameplatform.com/games/stellar-conquest/screen2.jpg",
+          "https://cdn.gameplatform.com/games/stellar-conquest/screen3.jpg"
+        ],
+        "gameplay_video": "https://cdn.gameplatform.com/games/stellar-conquest/gameplay.mp4",
+        "stats": {
+          "downloads": 7820,
+          "plays": 19650,
+          "favorites": 423,
+          "rating": 4.6,
+          "total_ratings": 145,
+          "featured": false
+        },
+        "technical_info": {
+          "file_size": "38.9 MB",
+          "platform_compatibility": ["Web", "Windows", "Mac"],
+          "controls": "Mouse",
+          "estimated_playtime": "3-5 hours"
+        },
+        "monetization": {
+          "is_premium": true,
+          "premium_price": 799,
+          "credits_earned": 54740,
+          "revenue_share": "70%"
+        }
+      }
+    ]
+  }
+}

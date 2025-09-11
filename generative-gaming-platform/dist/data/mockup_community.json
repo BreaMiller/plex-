@@ -1,0 +1,356 @@
+{
+  "community_database": {
+    "metadata": {
+      "created_date": "2025-08-25",
+      "total_social_posts": 1847,
+      "total_forum_threads": 342,
+      "total_comments": 5678,
+      "active_challenges": 8,
+      "completed_challenges": 24,
+      "total_follows": 2349,
+      "community_events": 6
+    },
+    "following_relationships": [
+      {
+        "follower_id": "usr_001",
+        "follower_username": "PixelMaster_89",
+        "following_id": "usr_002",
+        "following_username": "CyberNinja_X",
+        "followed_date": "2025-03-25T14:30:00Z",
+        "notifications_enabled": true
+      },
+      {
+        "follower_id": "usr_001",
+        "follower_username": "PixelMaster_89",
+        "following_id": "usr_004",
+        "following_username": "PuzzleMaven",
+        "followed_date": "2025-06-12T09:15:00Z",
+        "notifications_enabled": true
+      },
+      {
+        "follower_id": "usr_002",
+        "follower_username": "CyberNinja_X",
+        "following_id": "usr_001",
+        "following_username": "PixelMaster_89",
+        "followed_date": "2025-04-08T16:45:00Z",
+        "notifications_enabled": true
+      },
+      {
+        "follower_id": "usr_003",
+        "follower_username": "RetroGamer_2k",
+        "following_id": "usr_001",
+        "following_username": "PixelMaster_89",
+        "followed_date": "2025-02-20T11:30:00Z",
+        "notifications_enabled": false
+      },
+      {
+        "follower_id": "usr_004",
+        "follower_username": "PuzzleMaven",
+        "following_id": "usr_002",
+        "following_username": "CyberNinja_X",
+        "followed_date": "2025-07-15T13:20:00Z",
+        "notifications_enabled": true
+      }
+    ],
+    "social_posts": [
+      {
+        "post_id": "post_001",
+        "user_id": "usr_001",
+        "username": "PixelMaster_89",
+        "type": "game_announcement",
+        "content": "🎮 Excited to announce that Stellar Conquest just hit 7,000 downloads! Thank you all for the amazing support. Working on a major content update with new ship types and multiplayer battles! #indiedev #strategy #gamedev",
+        "media_urls": [
+          "/imgs/stellar_conquest_clean.png"
+        ],
+        "created_date": "2025-08-24T15:30:00Z",
+        "likes": 89,
+        "reposts": 23,
+        "comments": 34,
+        "game_id": "ug_006",
+        "tags": ["indiedev", "strategy", "gamedev"]
+      },
+      {
+        "post_id": "post_002",
+        "user_id": "usr_002",
+        "username": "CyberNinja_X",
+        "type": "development_update",
+        "content": "Late night coding session 🌙 Working on the sequel to Quantum Con. This time exploring themes of AI consciousness and digital identity. The quantum mechanics will be even more mind-bending! Can't wait to share more soon.",
+        "media_urls": [
+          "/imgs/quantum_con_cover.png"
+        ],
+        "created_date": "2025-08-23T23:45:00Z",
+        "likes": 156,
+        "reposts": 45,
+        "comments": 67,
+        "tags": ["gamedev", "cyberpunk", "sequel"]
+      },
+      {
+        "post_id": "post_003",
+        "user_id": "usr_004",
+        "username": "PuzzleMaven",
+        "type": "tip_sharing",
+        "content": "Game design tip: When creating puzzle games, always playtest with people who haven't seen your game before. What seems obvious to you might be completely confusing to fresh eyes! 🧩 #gamedesign #puzzlegames #tips",
+        "media_urls": [],
+        "created_date": "2025-08-22T10:15:00Z",
+        "likes": 234,
+        "reposts": 78,
+        "comments": 42,
+        "tags": ["gamedesign", "puzzlegames", "tips"]
+      },
+      {
+        "post_id": "post_004",
+        "user_id": "usr_003",
+        "username": "RetroGamer_2k",
+        "type": "appreciation",
+        "content": "Shoutout to the amazing retro gaming community here! 🕹️ Your feedback on Retro Blast Arena has been incredible. Already planning a sequel with 16-bit graphics and even more arcade action!",
+        "media_urls": [],
+        "created_date": "2025-08-21T14:20:00Z",
+        "likes": 67,
+        "reposts": 12,
+        "comments": 18,
+        "tags": ["retro", "community", "arcade"]
+      },
+      {
+        "post_id": "post_005",
+        "user_id": "usr_005",
+        "username": "ActionHero_23",
+        "type": "collaboration_request",
+        "content": "Looking for a pixel artist to collaborate on my next fighting game project! 🥊 Need someone who specializes in character sprites and special effects. Will share revenue 50/50. DM me your portfolio!",
+        "media_urls": [],
+        "created_date": "2025-08-20T12:00:00Z",
+        "likes": 45,
+        "reposts": 67,
+        "comments": 89,
+        "tags": ["collaboration", "pixelart", "fighting"]
+      }
+    ],
+    "forum_threads": [
+      {
+        "thread_id": "thread_001",
+        "title": "Best practices for cyberpunk game aesthetics?",
+        "author_id": "usr_006",
+        "author_username": "SpeedRunner_Pro",
+        "category": "Game Design",
+        "created_date": "2025-08-25T09:30:00Z",
+        "last_activity": "2025-08-25T16:45:00Z",
+        "replies": 23,
+        "views": 456,
+        "is_pinned": false,
+        "is_locked": false,
+        "tags": ["cyberpunk", "aesthetics", "design"]
+      },
+      {
+        "thread_id": "thread_002",
+        "title": "How to optimize games for mobile platforms?",
+        "author_id": "usr_007",
+        "author_username": "CasualGamer_99",
+        "category": "Technical Discussion",
+        "created_date": "2025-08-24T14:15:00Z",
+        "last_activity": "2025-08-25T12:30:00Z",
+        "replies": 18,
+        "views": 289,
+        "is_pinned": false,
+        "is_locked": false,
+        "tags": ["mobile", "optimization", "performance"]
+      },
+      {
+        "thread_id": "thread_003",
+        "title": "Community Game Jam: Theme Announcement!",
+        "author_id": "moderator_001",
+        "author_username": "GamePlatform_Mod",
+        "category": "Events",
+        "created_date": "2025-08-23T10:00:00Z",
+        "last_activity": "2025-08-25T17:20:00Z",
+        "replies": 145,
+        "views": 1234,
+        "is_pinned": true,
+        "is_locked": false,
+        "tags": ["gamejam", "community", "event"]
+      }
+    ],
+    "community_challenges": [
+      {
+        "challenge_id": "challenge_001",
+        "title": "Retro Revival Game Jam",
+        "description": "Create a game inspired by classic arcade games from the 80s and 90s. Use authentic 8-bit or 16-bit art styles and chiptune music.",
+        "type": "game_jam",
+        "status": "active",
+        "start_date": "2025-08-20T00:00:00Z",
+        "end_date": "2025-08-27T23:59:59Z",
+        "participants": 47,
+        "submissions": 23,
+        "prizes": {
+          "first_place": 50000,
+          "second_place": 25000,
+          "third_place": 10000,
+          "participation": 1000
+        },
+        "judges": ["usr_001", "usr_002", "moderator_001"],
+        "requirements": [
+          "Must use retro art style (8-bit or 16-bit)",
+          "Game must be completable in under 30 minutes",
+          "Include classic arcade-style gameplay mechanics"
+        ]
+      },
+      {
+        "challenge_id": "challenge_002",
+        "title": "One Button Wonder",
+        "description": "Design a game that uses only ONE input button but still provides engaging and complex gameplay.",
+        "type": "design_challenge",
+        "status": "active",
+        "start_date": "2025-08-15T00:00:00Z",
+        "end_date": "2025-08-30T23:59:59Z",
+        "participants": 32,
+        "submissions": 18,
+        "prizes": {
+          "first_place": 30000,
+          "second_place": 15000,
+          "third_place": 7500,
+          "participation": 500
+        },
+        "judges": ["usr_003", "usr_004", "moderator_002"],
+        "requirements": [
+          "Only one input button allowed",
+          "Game must have at least 3 different mechanics",
+          "Minimum 10 minutes of gameplay"
+        ]
+      },
+      {
+        "challenge_id": "challenge_003",
+        "title": "Puzzle Master Challenge",
+        "description": "Create the most mind-bending puzzle game. Innovation in puzzle mechanics will be heavily weighted.",
+        "type": "themed_challenge",
+        "status": "completed",
+        "start_date": "2025-07-01T00:00:00Z",
+        "end_date": "2025-07-31T23:59:59Z",
+        "participants": 28,
+        "submissions": 24,
+        "winner": "usr_004",
+        "winning_game": "ug_004",
+        "prizes": {
+          "first_place": 40000,
+          "second_place": 20000,
+          "third_place": 10000
+        }
+      }
+    ],
+    "community_events": [
+      {
+        "event_id": "event_001",
+        "title": "Live Developer Q&A: Creating Immersive Narratives",
+        "type": "livestream",
+        "host_id": "usr_002",
+        "host_username": "CyberNinja_X",
+        "scheduled_date": "2025-08-26T19:00:00Z",
+        "duration_minutes": 90,
+        "description": "Join Maya Rodriguez as she discusses techniques for creating compelling narratives in indie games, with live Q&A.",
+        "registered_attendees": 234,
+        "max_capacity": 500,
+        "status": "upcoming",
+        "platform": "platform_stream"
+      },
+      {
+        "event_id": "event_002",
+        "title": "Pixel Art Workshop: Character Design Basics",
+        "type": "workshop",
+        "host_id": "usr_001",
+        "host_username": "PixelMaster_89",
+        "scheduled_date": "2025-08-28T15:00:00Z",
+        "duration_minutes": 120,
+        "description": "Learn the fundamentals of pixel art character design in this hands-on workshop.",
+        "registered_attendees": 89,
+        "max_capacity": 100,
+        "status": "upcoming",
+        "platform": "platform_stream"
+      },
+      {
+        "event_id": "event_003",
+        "title": "Monthly Creator Showcase",
+        "type": "showcase",
+        "host_id": "moderator_001",
+        "host_username": "GamePlatform_Mod",
+        "scheduled_date": "2025-08-30T20:00:00Z",
+        "duration_minutes": 180,
+        "description": "Featuring the best games created this month, with developer presentations and community voting.",
+        "registered_attendees": 567,
+        "max_capacity": 1000,
+        "status": "upcoming",
+        "featured_games": ["ug_001", "ug_002", "ug_006"],
+        "platform": "platform_stream"
+      }
+    ],
+    "notifications": [
+      {
+        "notification_id": "notif_001",
+        "user_id": "usr_001",
+        "type": "follower_activity",
+        "title": "CyberNinja_X published a new game!",
+        "message": "CyberNinja_X just published 'Quantum Con 2: Digital Dreams'. Check it out!",
+        "created_date": "2025-08-25T10:30:00Z",
+        "read": false,
+        "action_url": "/games/ug_007",
+        "related_user_id": "usr_002"
+      },
+      {
+        "notification_id": "notif_002",
+        "user_id": "usr_002",
+        "type": "game_milestone",
+        "title": "Milestone Reached!",
+        "message": "Your game 'Quantum Con' has reached 20,000 downloads!",
+        "created_date": "2025-08-24T16:15:00Z",
+        "read": true,
+        "action_url": "/games/ug_002",
+        "related_game_id": "ug_002"
+      },
+      {
+        "notification_id": "notif_003",
+        "user_id": "usr_004",
+        "type": "challenge_deadline",
+        "title": "Challenge Deadline Approaching",
+        "message": "Only 2 days left to submit your entry for the 'Retro Revival Game Jam'!",
+        "created_date": "2025-08-25T12:00:00Z",
+        "read": false,
+        "action_url": "/challenges/challenge_001",
+        "related_challenge_id": "challenge_001"
+      }
+    ],
+    "user_activity_feed": [
+      {
+        "activity_id": "activity_001",
+        "user_id": "usr_001",
+        "username": "PixelMaster_89",
+        "type": "game_update",
+        "description": "updated their game 'Stellar Conquest' to version 1.1.2",
+        "timestamp": "2025-08-25T14:10:00Z",
+        "game_id": "ug_006"
+      },
+      {
+        "activity_id": "activity_002",
+        "user_id": "usr_002",
+        "username": "CyberNinja_X",
+        "type": "social_post",
+        "description": "shared a development update about their upcoming sequel",
+        "timestamp": "2025-08-23T23:45:00Z",
+        "post_id": "post_002"
+      },
+      {
+        "activity_id": "activity_003",
+        "user_id": "usr_004",
+        "username": "PuzzleMaven",
+        "type": "achievement_unlock",
+        "description": "unlocked the 'Brain Bender' achievement",
+        "timestamp": "2025-08-22T11:20:00Z",
+        "achievement_id": "brain_bender"
+      },
+      {
+        "activity_id": "activity_004",
+        "user_id": "usr_003",
+        "username": "RetroGamer_2k",
+        "type": "game_featured",
+        "description": "had their game 'Retro Blast Arena' featured in the Arcade Games collection",
+        "timestamp": "2025-08-21T16:00:00Z",
+        "game_id": "ug_003"
+      }
+    ]
+  }
+}

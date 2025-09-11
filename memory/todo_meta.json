@@ -1,0 +1,13 @@
+{
+  "todos": {
+    "Coordinator": {
+      "1": {
+        "id": "1",
+        "content": "Make community hub page responsive",
+        "details": "Implement responsive design for the community hub page to ensure it works properly across mobile, tablet, and desktop screen sizes",
+        "status": "completed",
+        "priority": "high"
+      }
+    }
+  }
+}

@@ -1,0 +1,576 @@
+{
+  "games_database": {
+    "metadata": {
+      "created_date": "2025-08-25",
+      "total_games": 14,
+      "genres": ["Action", "Adventure", "Strategy", "RPG", "Puzzle", "Indie"],
+      "data_sources": ["Steam", "Official Websites", "YouTube", "Publisher Sites"]
+    },
+    "action_games": [
+      {
+        "id": "cod_mw3_2023",
+        "title": "Call of Duty: Modern Warfare III",
+        "genre": "Action",
+        "subgenre": "First-Person Shooter",
+        "developer": "Sledgehammer Games",
+        "publisher": "Activision",
+        "release_date": "November 10, 2023",
+        "platforms": ["Windows", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Steam"],
+        "description": "In the direct sequel to the record-breaking Call of Duty: Modern Warfare II, Captain Price and Task Force 141 face off against the ultimate threat. The ultranationalist war criminal Vladimir Makarov is extending his grasp across the world causing Task Force 141 to fight like never before.",
+        "ratings": {
+          "esrb": "M - Mature 17+",
+          "steam_reviews": "Mixed",
+          "metacritic": "Not specified"
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Call of Duty: Modern Warfare III - Official Gameplay Reveal Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Gameplay Trailer"
+          },
+          {
+            "title": "Campaign Trailer | Call of Duty: Modern Warfare III",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Campaign Trailer"
+          }
+        ],
+        "key_features": [
+          "Campaign with open combat missions and player choice",
+          "Multiplayer with remastered Modern Warfare 2 maps",
+          "Zombies mode with largest Call of Duty Zombies map ever",
+          "Cross-platform multiplayer support",
+          "RICOCHET Anti-Cheat system"
+        ]
+      },
+      {
+        "id": "apex_legends",
+        "title": "Apex Legends",
+        "genre": "Action",
+        "subgenre": "Battle Royale/Hero Shooter",
+        "developer": "Respawn Entertainment",
+        "publisher": "Electronic Arts",
+        "release_date": "February 4, 2019",
+        "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
+        "description": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+        "ratings": {
+          "steam_reviews": "Mostly Positive (76% of 427,161 reviews)",
+          "metacritic": "85/100",
+          "critic_scores": ["9/10 (GameSpot)", "5/5 (GamesRadar+)", "93/100 (PC Gamer)"]
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Apex Legends Official Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Trailer"
+          }
+        ],
+        "key_features": [
+          "Free-to-play Hero Shooter",
+          "Ever-growing roster of legendary characters",
+          "Strategic squad play",
+          "Cross-platform multiplayer",
+          "Regular seasonal content updates"
+        ]
+      },
+      {
+        "id": "valorant",
+        "title": "VALORANT",
+        "genre": "Action",
+        "subgenre": "Tactical Shooter",
+        "developer": "Riot Games",
+        "publisher": "Riot Games",
+        "release_date": "June 2, 2020",
+        "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "description": "VALORANT is a 5v5 tactical shooter featuring agents with unique abilities. Players engage on a global, competitive stage, with 13 rounds to attack and defend using sharp gunplay and tactical abilities. The game emphasizes quick thinking due to one life per-round.",
+        "ratings": {
+          "metacritic": "83/100",
+          "user_score": "6.2/10",
+          "esrb": "T - Teen"
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "VALORANT - Official Cinematic Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Cinematic Launch Trailer"
+          },
+          {
+            "title": "DUELISTS // Official Launch Cinematic Trailer - VALORANT",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Cinematic Trailer"
+          }
+        ],
+        "key_features": [
+          "5v5 tactical shooter gameplay",
+          "Agents with unique abilities",
+          "Competitive ranked system",
+          "Anti-cheat Vanguard system",
+          "Regular content updates and new agents"
+        ]
+      }
+    ],
+    "adventure_games": [
+      {
+        "id": "witcher3_wild_hunt",
+        "title": "The Witcher 3: Wild Hunt",
+        "genre": "Adventure",
+        "subgenre": "Open-World Action RPG",
+        "developer": "CD Projekt Red",
+        "publisher": "CD Projekt Red",
+        "release_date": "May 19, 2015",
+        "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "description": "The Witcher 3: Wild Hunt is an open-world dark-fantasy RPG where you play as monster slayer Geralt of Rivia on a quest to track down his adopted daughter Ciri. Features dynamic combat, morally ambiguous world with complex choices, and includes two major expansions: Hearts of Stone and Blood and Wine.",
+        "ratings": {
+          "metacritic": "93/100 (PC)",
+          "steam_reviews": "Overwhelmingly Positive",
+          "gog_rating": "4.8/5",
+          "awards": ["Game of the Year 2015", "Multiple BAFTA Awards"]
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "The Witcher 3: Wild Hunt — 10th Anniversary Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Anniversary Trailer"
+          },
+          {
+            "title": "The Witcher 3: Wild Hunt - Killing Monsters Cinematic Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Cinematic Trailer"
+          },
+          {
+            "title": "The Witcher 3: Wild Hunt - Official Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Trailer"
+          }
+        ],
+        "key_features": [
+          "Massive open world to explore",
+          "Dynamic combat with two swords and magic signs",
+          "Complex narrative choices affecting story outcome",
+          "Rich character development and relationships",
+          "Two major story expansions included"
+        ]
+      },
+      {
+        "id": "assassins_creed_mirage",
+        "title": "Assassin's Creed Mirage",
+        "genre": "Adventure",
+        "subgenre": "Action-Adventure",
+        "developer": "Ubisoft Bordeaux",
+        "publisher": "Ubisoft",
+        "release_date": "October 12, 2023",
+        "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "iPhone", "iPad"],
+        "description": "Assassin's Creed Mirage is a narrative-driven action-adventure experience where players assume the role of Basim, a cunning street thief with nightmarish visions seeking answers and justice. Set in ninth-century Baghdad during its Golden Age, featuring seamless parkour and visceral assassinations.",
+        "ratings": {
+          "metacritic": "76/100 (PC)",
+          "steam_reviews": "Very Positive",
+          "ign_score": "7/10"
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Assassin's Creed Mirage - Official Story Trailer | Ubisoft Forward 2023",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Story Trailer"
+          },
+          {
+            "title": "Assassin's Creed Mirage: Story Trailer | Ubisoft Forward",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Story Trailer"
+          }
+        ],
+        "key_features": [
+          "Return to classic Assassin's Creed gameplay",
+          "Seamless parkour through Baghdad",
+          "Largest assortment of tools in franchise",
+          "Four unique districts to explore",
+          "Journey to Alamut, legendary home of the Assassins"
+        ]
+      }
+    ],
+    "strategy_games": [
+      {
+        "id": "civilization_vi",
+        "title": "Sid Meier's Civilization VI",
+        "genre": "Strategy",
+        "subgenre": "Turn-based Strategy/4X",
+        "developer": "Firaxis Games",
+        "publisher": "2K Games",
+        "release_date": "October 21, 2016",
+        "platforms": ["PC", "Mac", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android"],
+        "description": "Sid Meier's Civilization VI challenges players to build an empire from the Stone Age to the Information Age, guiding their chosen civilization through research, diplomacy, and warfare. Features five victory conditions: Science, Culture, Domination, Score, and Religious victory.",
+        "ratings": {
+          "metacritic": "88/100 (PC)",
+          "steam_reviews": "Very Positive",
+          "ign_score": "9.4/10"
+        },
+        "cover_art_urls": [
+          "http://assets.2k.com/1a6ngf98576c/6g4WLWytvrgLZUk56jYZl7/7b2db13f7a1bc8a6cb734f8f4fb0f825/Civ_6_Anthology_picture_Desktop.jpg",
+          "http://assets.2k.com/1a6ngf98576c/22tgxppkJYETuTKn3OQ5ly/59c5647f31184b341af8a852ab30124b/Civ6_LP_thumb.jpg",
+          "http://assets.2k.com/1a6ngf985776c/4ifYGFgkbPzUvLIDhZzppv/238eb410e19d3e508f9c651699f22d03/Civ_6_New_Frontier_Passpicture_Desktop.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "CIVILIZATION VI Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Trailer"
+          }
+        ],
+        "key_features": [
+          "Build empire from Stone Age to Information Age",
+          "Five different victory conditions",
+          "Cities physically expand across terrain",
+          "Active research in Culture and Technology",
+          "Competing leaders with historical agendas",
+          "Multiple expansions and DLC available"
+        ]
+      },
+      {
+        "id": "age_of_empires_iv",
+        "title": "Age of Empires IV",
+        "genre": "Strategy",
+        "subgenre": "Real-Time Strategy",
+        "developer": "Relic Entertainment",
+        "publisher": "Xbox Game Studios",
+        "release_date": "October 28, 2021",
+        "platforms": ["PC", "Xbox Game Pass", "Steam", "PlayStation 5 (upcoming)"],
+        "description": "Age of Empires IV takes players on a journey through the ages as they command influential leaders, build expansive kingdoms, and fight some of the most critical battles of the Middle Ages. Features four historical campaigns and multiple civilizations.",
+        "ratings": {
+          "metacritic": "81/100 (PC)",
+          "steam_reviews": "Very Positive",
+          "awards": ["Best Sim/Strategy Game - The Game Awards 2021", "Strategy/Simulation Game of the Year - DICE Awards 2021"]
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Age of Empires IV - Official Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Trailer"
+          },
+          {
+            "title": "Age of Empires IV - Official Gameplay Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Gameplay Trailer"
+          }
+        ],
+        "key_features": [
+          "Four historical campaigns spanning different eras",
+          "Multiple civilizations with unique abilities",
+          "Real-time strategy gameplay with modern improvements",
+          "Historical battles and scenarios",
+          "Multiplayer and co-op modes"
+        ]
+      }
+    ],
+    "rpg_games": [
+      {
+        "id": "cyberpunk_2077",
+        "title": "Cyberpunk 2077",
+        "genre": "RPG",
+        "subgenre": "Open-World Action RPG",
+        "developer": "CD Projekt Red",
+        "publisher": "CD Projekt",
+        "release_date": "December 10, 2020",
+        "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Mac"],
+        "description": "Cyberpunk 2077 is a story-driven, open world RPG of the dark future set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.",
+        "ratings": {
+          "metacritic": "86/100 (PC), 57/100 (PS4 at launch)",
+          "steam_reviews": "Very Positive (recent)",
+          "after_patches": "Mostly Positive overall"
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Cyberpunk 2077 - Official Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Trailer"
+          },
+          {
+            "title": "Cyberpunk 2077: Ultimate Edition — Official Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Ultimate Edition Trailer"
+          }
+        ],
+        "key_features": [
+          "Open-world Night City setting",
+          "Deep character customization and progression",
+          "Multiple story paths and endings",
+          "Advanced cybernetic augmentations",
+          "Phantom Liberty expansion available"
+        ]
+      },
+      {
+        "id": "elden_ring",
+        "title": "ELDEN RING",
+        "genre": "RPG",
+        "subgenre": "Action RPG/Soulslike",
+        "developer": "FromSoftware",
+        "publisher": "Bandai Namco Entertainment",
+        "release_date": "February 25, 2022",
+        "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "description": "ELDEN RING is a fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki and George R.R. Martin. Journey through the Lands Between, a new fantasy world created in collaboration with George R. R. Martin, and face the demigods in this new FromSoftware title.",
+        "ratings": {
+          "metacritic": "96/100 (PS5), 94/100 (PC)",
+          "steam_reviews": "Very Positive",
+          "awards": ["Game of the Year 2022", "Golden Joystick Game of the Year"]
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "ELDEN RING Official Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Trailer"
+          },
+          {
+            "title": "ELDEN RING Shadow of the Erdtree – Official Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Expansion Trailer"
+          }
+        ],
+        "key_features": [
+          "Vast open world to explore",
+          "Challenging Souls-like combat",
+          "Story collaboration with George R.R. Martin",
+          "Mount system for traversal",
+          "Multiple character classes and builds",
+          "Shadow of the Erdtree expansion available"
+        ]
+      }
+    ],
+    "puzzle_games": [
+      {
+        "id": "portal_2",
+        "title": "Portal 2",
+        "genre": "Puzzle",
+        "subgenre": "First-Person Puzzle",
+        "developer": "Valve Corporation",
+        "publisher": "Valve Corporation",
+        "release_date": "April 19, 2011",
+        "platforms": ["PC", "Mac", "PlayStation 3", "Xbox 360"],
+        "description": "Portal 2 draws from the award-winning formula of innovative gameplay, story, and music that earned the original Portal over 70 industry accolades. The single-player portion introduces new characters, puzzle elements, and test chambers, while co-op mode features an entirely separate campaign.",
+        "ratings": {
+          "metacritic": "95/100 (PC)",
+          "steam_reviews": "Overwhelmingly Positive (98% of 161,905 reviews)",
+          "awards": ["Multiple Game of the Year awards", "BAFTA Games Awards"]
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Portal 2 - Full Co-op Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Co-op Trailer"
+          },
+          {
+            "title": "Portal 2 Teaser Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Teaser Trailer"
+          }
+        ],
+        "key_features": [
+          "Revolutionary portal-based puzzle mechanics",
+          "Extensive single-player campaign",
+          "Complete two-person co-op mode",
+          "Advanced physics system",
+          "Memorable characters including GLaDOS",
+          "Portal 2 editing tools included"
+        ]
+      },
+      {
+        "id": "tetris_effect_connected",
+        "title": "Tetris Effect: Connected",
+        "genre": "Puzzle",
+        "subgenre": "Music/Rhythm Puzzle",
+        "developer": "Monstars Inc., Resonair, Stage Games",
+        "publisher": "Enhance Experience, Inc.",
+        "release_date": "August 17, 2021",
+        "platforms": ["PC", "Xbox One", "Xbox Series X/S", "PlayStation 4", "Nintendo Switch", "VR"],
+        "description": "Tetris Effect: Connected adds an all-new robust multiplayer expansion to the addictive single-player modes. It's Tetris like you've never seen it, heard it, or felt it before—with music, backgrounds, and effects that pulse and dance in perfect sync with your play.",
+        "ratings": {
+          "steam_reviews": "Very Positive (94% of 5,127 reviews)",
+          "metacritic": "89/100",
+          "awards": ["Excellence in Audio - Independent Games Festival"]
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Tetris Effect: Connected Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Trailer"
+          },
+          {
+            "title": "Tetris Effect: Connected - Launch Trailer - Nintendo Switch",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Nintendo Switch Trailer"
+          }
+        ],
+        "key_features": [
+          "30+ stages with evolving music and visuals",
+          "Unique 'Zone' mechanic to stop time",
+          "Cross-platform multiplayer modes",
+          "Co-op and competitive gameplay",
+          "VR support for immersive experience",
+          "Spectator mode with emotes"
+        ]
+      }
+    ],
+    "indie_games": [
+      {
+        "id": "hades",
+        "title": "Hades",
+        "genre": "Indie",
+        "subgenre": "Roguelike/Action",
+        "developer": "Supergiant Games",
+        "publisher": "Supergiant Games",
+        "release_date": "September 17, 2020",
+        "platforms": ["PC", "Mac", "Nintendo Switch", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler. As the immortal Prince of the Underworld, wield the powers and mythic weapons of Olympus to break free from the clutches of death himself.",
+        "ratings": {
+          "steam_reviews": "Overwhelmingly Positive (98% of 132,070 reviews)",
+          "metacritic": "93/100 (PC)",
+          "awards": ["Hugo Award for Best Video Game 2021", "DICE Outstanding Achievement in Game Design"]
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Hades - v1.0 Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Trailer"
+          },
+          {
+            "title": "Hades - Launch Trailer - Nintendo Switch",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Nintendo Switch Trailer"
+          }
+        ],
+        "key_features": [
+          "Rogue-like dungeon crawler with permanent progression",
+          "Rich Greek mythology setting",
+          "Fully-voiced cast of memorable characters",
+          "Dynamic combat with various weapons",
+          "Boons from Olympian gods enhance abilities",
+          "Thousands of unique story events"
+        ]
+      },
+      {
+        "id": "celeste",
+        "title": "Celeste",
+        "genre": "Indie",
+        "subgenre": "Precision Platformer",
+        "developer": "Matt Makes Games",
+        "publisher": "Matt Makes Games",
+        "release_date": "January 25, 2018",
+        "platforms": ["PC", "Mac", "Linux", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+        "description": "Help Madeline survive her journey to the top of Celeste Mountain in this super-tight, hand-crafted platformer from the creators of TowerFall. The climb will be tough, but the view from the top will be worth it.",
+        "ratings": {
+          "metacritic": "94/100 (PC)",
+          "steam_reviews": "Overwhelmingly Positive",
+          "awards": ["Independent Games Festival Excellence in Audio", "The Game Awards Best Independent Game nominee"]
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Celeste Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Steam Trailer"
+          },
+          {
+            "title": "Celeste Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Launch Trailer"
+          }
+        ],
+        "key_features": [
+          "Hand-crafted platformer with tight controls",
+          "Challenging but fair difficulty curve",
+          "Meaningful story about overcoming anxiety",
+          "Beautiful pixel art and soundtrack",
+          "Extensive accessibility options",
+          "Additional B-side and C-side levels"
+        ]
+      },
+      {
+        "id": "among_us",
+        "title": "Among Us",
+        "genre": "Indie",
+        "subgenre": "Social Deduction/Multiplayer",
+        "developer": "InnerSloth",
+        "publisher": "InnerSloth",
+        "release_date": "June 15, 2018",
+        "platforms": ["PC", "Mobile (iOS/Android)", "Nintendo Switch", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "description": "Among Us is a party game of teamwork and betrayal for 4-15 players. Crewmates work together to complete tasks before one or more Impostors can kill everyone aboard. Vote off suspected Impostors, but beware - innocent Crewmates might be ejected too!",
+        "ratings": {
+          "metacritic": "85/100 (PC)",
+          "steam_reviews": "Very Positive",
+          "awards": ["The Game Awards Best Multiplayer Game 2020", "Kids' Choice Award for Favorite Video Game 2021"]
+        },
+        "cover_art_urls": [
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+          "/images/neon_gaming_controllers_icons_set_dark_theme.jpg"
+        ],
+        "official_trailers": [
+          {
+            "title": "Among Us Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "Game Trailer"
+          },
+          {
+            "title": "Among Us 3D - Official Launch Trailer",
+            "url": "/images/neon_gaming_controllers_icons_set_dark_theme.jpg",
+            "type": "3D Version Trailer"
+          }
+        ],
+        "key_features": [
+          "Social deduction gameplay for 4-15 players",
+          "Cross-platform multiplayer",
+          "Simple but engaging mechanics",
+          "Regular content updates with new maps",
+          "Customizable characters and cosmetics",
+          "Voice chat integration support"
+        ]
+      }
+    ]
+  }
+}
